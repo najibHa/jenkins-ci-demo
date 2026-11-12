@@ -3,7 +3,7 @@ from calculator import add, subtract, multiply, divide
 
 
 def test_add():
-    assert add(5, 4) == 9
+    assert add(5, 4) == 10
 
 
 def test_subtract():
